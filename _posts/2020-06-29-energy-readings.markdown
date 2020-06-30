@@ -2,7 +2,7 @@
 layout: post
 title: "Energy readings"
 tags: readings
-#date: 2020-06-26 14:21:02 -0700
+#date: 2020-06-29 18:19:00 -0700
 ---
 
 ### Notes from Readings
