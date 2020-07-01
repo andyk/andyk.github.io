@@ -97,6 +97,6 @@ Thoughts:
     * Technologies that enable and *incentivize* education, especially STEM since irrational human behavior is at core of many systemic issues.
 
 * (Fermi question)  How many floating point operations can we perform given the milky way's energy budget?
-    * 100,000,000,000,000,000,000,000,000,000,000,000,000,000 = 6673.8 * 10^37 = 6.6738 * 10^40
+    * 10,000,000,000,000,000,000,000,000,000,000,000,000,000 = 6673.8 * 10^36 = 6.6738 * 10^39 MFLOPS
         * 6673.8 MFLOPS/watt ([per here](https://en.wikipedia.org/wiki/Performance_per_watt))
-        * approximate energy per milky way: 10^37 Watts ([per here](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/galaxy.png))
+        * approximate energy per milky way: 10^36 Watts ([per here](https://en.wikipedia.org/wiki/Orders_of_magnitude_(power)))
