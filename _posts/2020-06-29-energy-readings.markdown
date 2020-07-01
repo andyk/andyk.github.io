@@ -5,8 +5,9 @@ tags: readings
 #date: 2020-06-29 18:19:00 -0700
 ---
 
-### Notes from Readings
-#### Reading #1: [Galactic-scale energy](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/)
+This week some friends and I read and discussed 3 blog posts by physics professor [Tom Murphy](https://dothemath.ucsd.edu/tom-murphy-profile/).
+
+### Reading #1: [Galactic-scale energy](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/)
 
 Main takeaways:
 * This blog post is a thought experiment that tries to help us grasp how fast exponential functions grow by using human energy consumption as an example.
@@ -24,7 +25,7 @@ Thoughts:
 * I hadn't thought of categorizing energy this way before: "Biomass, wind, and hydroelectric ... derive from the sun's radiation, and fossil fuels represent the Earth's batter charged by solar energy over millions of years. Only nuclear, geothermal, and tidal processes do not come from the sun"
 
 
-#### Reading #2: [Can economic growth last?](https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/)
+### Reading #2: [Can economic growth last?](https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/)
 
 Main takeaways:
 * I think his main point is that humanity will ultimately need to transition to a non-growth economy because, he argues, economic growth is bounded by energy growth.
@@ -53,7 +54,7 @@ Thoughts:
 * "Consequently, the price of food, energy, and manufacturing would drop to negligible levels relative to the fluffy stuff.  And is this realistic—that a vital resource at its physical limit gets arbitrarily cheap?" -- Seems more likely to me that energy will be regulated by the government and made free.
 
 
-#### Reading #3: [The energy trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/)
+### Reading #3: [The energy trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/)
 
 Main takeaways:
 * "Nature does not provide an energy financing scheme. You can’t build a windmill on promised energy."
@@ -80,7 +81,7 @@ Thoughts:
 * On an individual human level, it would be like an engineer trapped with a limited amount of air and having to use it more rapidly in order to build a device that produces more breathable air. It seems obvious at the single-human or small team (or even company level), but would/could whole societies and the whole of humanity do it?
 
 
-### Nick's questions for the discussion:
+### Follow up questions for the discussion
 
 * What is your vision for humanity's future in 100, 500, and 1000 years?
     * Shift from humans living to provide (for self and family) to advancement
