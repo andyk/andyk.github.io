@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energy readings"
+title: "The future of energy - reading notes, and discussion"
 tags: readings
 #date: 2020-06-29 18:19:00 -0700
 ---
