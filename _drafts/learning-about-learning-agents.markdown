@@ -3,11 +3,13 @@ layout: post
 title: "Learning about learning agents"
 ---
 
-I've spent about a year so far studying and thinking about learning agents and the algorithms they use, with an emphasis on Reinforcement Learning. I found that, while there are decades of research available from many different angles, much of the content is either more high-level or low-level than what I'm looking for. Sometimes I have felt a little lost despite the wealth of resources available.
+I've spent about a year so far studying and thinking about learning agents and the algorithms they use, with an emphasis on Reinforcement Learning. My goal when I set out was to familiarize myself with existing research about software programs that behave with agency and learn. By agency, I mean that the program must observe and act in a world, either a simulated world such as a video game, or the real world the way robots do. Along the way I also want to contribute to research and development of more general versions of today's software agents. And I am specifically interested in the systems that might make it easier to build, run, and share such learning agents and their components. Finally, I am also quite interested in how the human mind encodes agency and learning.
 
-**If I could time-travel to one year ago, here are some tips I'd give myself:**
+There is much research available on the topic of learning agents and architectures inspired by the human mind. It has been done from many different perspectives, including neuroscience, AI, ML, RL, behavioral psychology, robotics, etc. With so many options to explore, it has taken me a while to hone in on resources that are relevant to my software/systems/brain oriented interests. For example, many papers I've read are focused on algorithms that play Atari games, while I'd like to work with agents in a more general environment. Also, many of the textbooks I've read present a formal, usually mathematical, theoretical framework for modeling and understanding learning agents. While I enjoy the math, I am keen to find and work on models, architectures, conventions, and tools more oriented towards the development of programs that implement agents. 
 
-* Find excuses to write up and code up what you're doing as you go.
+
+**If I could go back a year, here are some tips I'd give myself:**
+
 * Mix learning and practicing. I primarily learn by reading, watching videos, taking online classes, and study groups. I practice by coding. I've found a 1:1 ratio of the two (by time spent) works pretty well for me.
 * Regularly take time to review historical or seminal research and read classic papers.
 * Find folks to collaborate with.
@@ -23,12 +25,12 @@ I've spent about a year so far studying and thinking about learning agents and t
 
 **And here are some of my favorite learning resources so far:**
 
-* [Reinforcement Learning textbook](http://www.incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto, full PDF is available for free online
+* [Reinforcement Learning textbook](http://www.incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto, full PDF is available for free online.
     * A classic textbook on the theory of RL. It is math-heavy with pseudocode for most algorithms it covers. The textbook has three parts: (1) tabular solution methods (introduces Bandit algorithms, Dynamic programming, Q-tables, TD), (2) approximate solution methods (introduces function approximation with deep nets for the Q-table, Sarsa, TD-lambda, REINFORCE) (3) a survey of RL applications (psychology, neuroscience, game playing). I enjoyed spending about 6 months reading this textbook and working through the math.
 * [Sergey Levine's UC Berkeley Grad level course  on Deep RL](http://rail.eecs.berkeley.edu/deeprlcourse/)
     * The lecture videos are math-heavy with very little code. The homeworks are a good introduction to the basics, though there is a decent amount of boiler plate code to sort through. The last part of the course covers current research topics in RL and the last ~10 lectures of each semester are given by guests active in the field.
 * [David Silver's UCL Course on RL](https://www.davidsilver.uk/teaching/) ([youtube playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ))
-    * The lectures are concise and relatively short. Silver is good at explaining things.
+    * The lectures are concise and relatively short. I found his explanations useful and appreciated his teaching style.
 * The RL chapter (ch18) of [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
     * He implements a few classic RL algorithms from scratch in python (REINFORCE, DQN, ...) and explains every step of his code. I found it a great starting spot for my own implementations of the classic RL algorithms.
 * [How to Build a Brain](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199794546.001.0001/acprof-9780199794546) by Chris Eliasmith
