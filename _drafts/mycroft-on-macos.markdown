@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Setting up Mycroft on MacOS"
+id: 20200706133608
 #date: 2020-06-26 14:21:02 -0700
 ---
-
 Mycroft is an open souce personal assistant, an alternative to Alex, Siri, or OK Google.
 
 These are my notes about the system and what I did to get it working on my 2017 13" MacBook Pro.
