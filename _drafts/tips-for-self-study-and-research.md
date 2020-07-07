@@ -8,7 +8,7 @@ title: "Tips for self-study and independent research"
 
 I've spent about a year ramping up on reinforcement learning (RL) and related research topics. Not too long ago, I spent six years getting my PhD at Berkeley. Compared to my PhD work, my current research is less focused on publishing and more independent, and I find that with independence comes unique challenges and rewards. So, I want to share some tips for effective self-study and independent research. They are roughly ordered with things more targeted at early research first, and more mature research later.
 
-[//]: # (If you're interested in what I'm working on, read [my research goals and what I've been learning](research-goals.html).) 
+[//]: # (If you're interested in what I'm working on, read my research goals and what I've been learning - LINK HERE to research-goals.html.) 
 
 * **Write down your goals.** Do you want to publish a paper? Contribute to an open source project? Gain experience for a career change? Do you simply enjoy learning? You can list more than one goal, but sort them and _pick one as your primary._ When I started, my primary goal was to learn about as many approaches to agent based programs as I could find, and a secondary goal was to build an agent myself that uses mind-wandering (which led me to build a chat bot).
 * **Mix learning and practicing.** I learn by reading, watching videos, taking online classes, and participating in study groups. I practice by coding. A 1:1 ratio works well for me. I usually spend days or weeks in one mode before flipping to the other.
