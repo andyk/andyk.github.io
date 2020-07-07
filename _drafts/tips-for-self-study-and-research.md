@@ -32,7 +32,7 @@ I've spent about a year ramping up on reinforcement learning (RL) and related re
 * **Find folks to collaborate with.**
     * Look where you work. For academics, this is straightforward, e.g., PhD students have their advisors and other students. If you're not an academic, there might already be reading groups or chat channels at your company you can join. Otherwise, attend meetups, post on mailing lists of open source projects, or go to a conference.
     * Once you find a collaborator, some of your solo activites can become group activities. I work closely with a friend Nick Jalbert that I met in grad school. We have weekly video chats and occasionally in-person mini-retreats. Here are examples of ways Nick and I collaborate:
-        * Every few weeks, we read a paper and then meet to discuss it. Nick inspired me to set up this blog when he started posting [his reading notes](https://nickjalbert.github.io) online.
+        * Every few weeks, we read a paper and then meet to discuss it. Nick inspired me to set up this blog when he started posting [his reading notes](https://nickjalbert.github.io/reading) online.
         * We built a short hands-on [Intro to RL tutorial](https://www.meetup.com/LA-Deep-RL/events/268096321/) for the LA Deep RL meetup group.
         * We are self-studying our way through [Gilbert Strang's online linear algebra course](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/).
         * We write code together. Sometimes we both work on our own separate implementation of an algorithm and then compare, sometimes we review each other's code or design docs, sometimes we pair program.
