@@ -5,8 +5,9 @@ title: "Tips for self-study and independent research"
 
 [//]: # (TODOs:)
 [//]: # (make sure chatagent builds, update readme, publish the repo.)
+[//]: # (Maybe some short concluding words?)
 
-I've spent about a year ramping up on reinforcement learning (RL) and related research topics. Compared to my PhD work, which I completed at Berkeley not too long ago, my current research is less focused on publishing and more independent, creating unique challenges and rewards. I want to share some tips for effective self-study and independent research, which I've roughly ordered from those targeting early research first to more mature research later.
+I've spent about a year ramping up on reinforcement learning (RL) and related research topics. Compared to my PhD work at Berkeley, my current research is less focused on publishing and more independent, creating unique challenges and rewards. I want to share some tips for effective self-study and independent research, which I've roughly ordered from those targeting early research first to more mature research later.
 
 [//]: # (If you're interested in what I'm working on, read my research goals and what I've been learning - LINK HERE to research-goals.html.) 
 
@@ -38,5 +39,3 @@ I've spent about a year ramping up on reinforcement learning (RL) and related re
         * We write code together. Sometimes we both work on our own separate implementation of an algorithm and then compare, sometimes we review each other's code or design docs, and sometimes we pair program.
 * **Contact people in the field.** Be bold but humble. Don't start with the most famous researchers; instead contact folks that are local to your area. Read their recent papers or books first. Get an introduction if you can. Raise a technical topic or question that overlaps with their research. Researchers are generally meritocratic, so they will give you time if you have ideas that are interesting to them. Nonetheless, expect to be rejected or ignored. 
 * **Spend time motivating yourself.** I once read that people overestimate how much progress they can make in a month and underestimate how much they can make in a year; this is my experience with self-study and independent research. Major research accomplishments tend to take years of work (Is this kinda counter to the underestimting progress in a year thing?). Along the way, you should expect to ocassionally feel bored, distracted, hopeless, disillusioned, etc. I don't wait for these moments to arrive to manage them. Instead, I proactively set aside time for activities that inspire me. For me, this includes reading or watching sci-fi, public speaking, and passionate conversations with friends about RL and AI. And when a bad day comes along, I take a break from work, listen to music or go the gym, talk it out with a friend, or try jumping into a different project. All the while, I remain patient for my sense of excitement to return. And it always does.
-
-Maybe some short concluding words?
