@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tips for self-study and independent research"
+date: 2020-07-09 11:00:00 -0700
 ---
 
 [//]: # (TODOs:)
