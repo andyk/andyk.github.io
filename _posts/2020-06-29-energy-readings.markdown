@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The future of energy - reading notes, and discussion"
-tags: readings
-#date: 2020-06-29 18:19:00 -0700
+date: 2020-06-29 18:19:00 -0700
 ---
 
 This week some friends and I read and discussed 3 blog posts by physics professor [Tom Murphy](https://dothemath.ucsd.edu/tom-murphy-profile/).
