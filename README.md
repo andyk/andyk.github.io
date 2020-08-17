@@ -52,5 +52,5 @@ cd andyk.github.io.git
 jekyll new .
 
 # Then i edited the ./Gemfile that was created per instructions in https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll.
-# I documented my edits in comments in that file, which are in the git repo of the blog/website.
+# I documented my edits in comments in that file.
 ```
