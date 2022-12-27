@@ -1,9 +1,12 @@
 I build this blog using jekyll and rbenv on MacOS.
 
 # Building site
-jekyll 
+I use Docker, so to build site:
 
-# Installing dev env
+1. make sure docker desktop is installed
+2. `cd andyk.github.io; docker compose up`
+
+# OLD Installing dev env
 Here is what I did today to setup ruby and jekyll on my macbook pro and macbook air so that I can publish my blog via github pages.
 
 I followed instructions at:
