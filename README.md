@@ -1,5 +1,9 @@
 I build this blog using jekyll and rbenv on MacOS.
 
+# Building site
+jekyll 
+
+# Installing dev env
 Here is what I did today to setup ruby and jekyll on my macbook pro and macbook air so that I can publish my blog via github pages.
 
 I followed instructions at:
@@ -21,17 +25,18 @@ rbenv init
 # restart shell
 
 # Checked the installation. saw green/ok
-curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+  curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
 
 rbenv install 2.7.1
 rbenv global 2.7.1
 ruby -v
-# returns ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-darwin19]
-# before running, the default MacOS ruby was installed 2.6.1something
+# The default MacOS ruby was installed 2.6.1something
 
-# Then ran: echo 'export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH"' >> ~/.bash_profile
+echo 'export PATH="$HOME/.gem/ruby/2.7.1/bin:$PATH"' >> ~/.bash_profile
 
 # restart shell again
+ruby -v
+# returns ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-darwin19]
 
 #make sure gem is looking at right place for jekyll
 gem env
