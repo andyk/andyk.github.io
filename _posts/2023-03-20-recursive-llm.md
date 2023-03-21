@@ -87,8 +87,7 @@ I was a little suprised at how (and how frequently) the model generates incorrec
 
 ![wrong-answer-18th-fib-seq](https://user-images.githubusercontent.com/228998/226428779-845c299c-c158-4634-94d8-cc265aa86f19.png)
 
-I wonder how much of this is because the model has memorized the Fibonacci sequence. It is possible to have it just return the sequence in a single call, but that isn't really the point here. Instead this is more an exploration of how to use these large language models as part of a more active agent system, in the spirit of \[1\]\[2\]. In this context our "agent" is just a dumb python tail recursion that uses the current prompt to generate the next prompt, etc. etc. until it arrives at a base case.
-
+I wonder how much of this is because the model has memorized the Fibonacci sequence. It is possible to have it just return the sequence in a single call, but that isn't really the point here. Instead this is more an exploration of how to use these large language models as part of a more active agent system, in the spirit of \[[1](https://til.simonwillison.net/llms/python-react-pattern)\]\[[2](https://react-lm.github.io/)\]. In this context our "agent" is just a dumb python tail recursion that uses the current prompt to generate the next prompt, etc. etc. until it arrives at a base case.
 
 ## References
 
