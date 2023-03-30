@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Recursive LLM Prompts"
-date: 2023-03-20 11:18:00 -0800
 ---
 
 _(The following is copied from the readme at [github.com/andyk/recursive_llm](https://github.com/andyk/recursive_llm))_

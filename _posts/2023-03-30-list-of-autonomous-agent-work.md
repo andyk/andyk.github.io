@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "List of Autonomous LLM Agent Projects"
-date: 2023-03-30 10:36:00 -0800
 ---
 
 Interesting projects, products, or papers focused on taking LLMs and giving them the ability to do things:
