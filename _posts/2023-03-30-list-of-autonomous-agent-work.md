@@ -3,7 +3,7 @@ layout: post
 title: "List of Autonomous LLM Agent Projects"
 ---
 
-This is my scratchpad of interesting projects and products focused on taking LLMs and giving them the ability to do things. There is also a short summary of each project:
+This is my scratchpad of interesting projects and products focused on taking LLMs and giving them the ability to do things. There is also a short summary of each project.
 
 * [Toolformer](https://arxiv.org/abs/2302.04761), Timo Schick et al., Meta AI Research, Universitat Pompeu Fabra
 * [ReAct - Reasoning + Actions](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html), Shunyu Yao et al., Google Brain
@@ -34,7 +34,7 @@ The paper introduces a new fine-tuned model called Toolformer, which is trained 
 
 **[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629.pdf)**, Shunyu Yao et al., Google Brain
 
-The paper discusses the use of large language models (LLMs) to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two. The authors apply their approach, named ReAct, to a diverse set of language and decision-making tasks and demonstrate its effectiveness over state-of-the-art baselines in addition to improved human interpretability and trustworthiness. Specifically, on question answering and fact verification tasks, ReAct overcomes prevalent issues of hallucination and error propagation in chain-of-thought reasoning by interacting with a simple Wikipedia API, and generating human-like task-solving trajectories that are more interpretable than baselines without reasoning traces. Furthermore, on two interactive decision-making benchmarks, ReAct outperforms imitation and reinforcement learning methods by a significant margin.
+The paper discusses the use of large language models (LLMs) to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two. The authors apply their approach, named ReAct (for Reasoning + Action), to a diverse set of language and decision-making tasks and demonstrate its effectiveness over state-of-the-art baselines in addition to improved human interpretability and trustworthiness. Specifically, on question answering and fact verification tasks, ReAct overcomes prevalent issues of hallucination and error propagation in chain-of-thought reasoning by interacting with a simple Wikipedia API, and generating human-like task-solving trajectories that are more interpretable than baselines without reasoning traces. Furthermore, on two interactive decision-making benchmarks, ReAct outperforms imitation and reinforcement learning methods by a significant margin.
 
 ### MERKL
 **[Jurassic-X: Crossing the neuro-symbolic chasm with the MRKL system](https://www.ai21.com/blog/jurassic-x-crossing-the-neuro-symbolic-chasm-with-the-mrkl-system)**, AI21
@@ -81,4 +81,8 @@ The Dust Platform is a framework (written in Rust) designed to define and deploy
 
 **[Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP](https://github.com/stanfordnlp/dsp/)** ([paper](https://arxiv.org/abs/2212.14024))
 
-The Demonstrate-Search-Predict (DSP) framework is a programming abstraction for building AI systems for knowledge-intensive tasks such as answering user questions or researching complex topics. DSP programs are written in a few lines of code, describing how the problem should be decomposed into smaller transformations. The framework provides primitives for composing transformations and and mapping these transformations to effective language model (LM, GPT-3.5 in this case) and retrieval model (RM - ColBERTv2) calls. DSP discourages "prompt engineering" and offers a number of automatic tuning features. The evaluation in the paper shows DSP beat vanilla GPT-3.5 on Open-SQuAD by 120% (i.e., DSP got a score of 36.6 vs. vanilla GPT-3.5 with a few-shot prompt's score of 16.2). THey beat the simpler Retreive-then-read paradigm by a more modest 8%. They also evaluate performance on HotPotQA, and QReCC. The framework is open source and available for installation and comes with an intro notebook and compiler notebook
+The Demonstrate-Search-Predict (DSP) framework is a programming abstraction for building AI systems for knowledge-intensive tasks such as answering user questions or researching complex topics. DSP programs are written in a few lines of code, describing how the problem should be decomposed into smaller transformations. The framework provides primitives for composing transformations and and mapping these transformations to effective language model (LM, GPT-3.5 in this case) and retrieval model (RM - ColBERTv2) calls. DSP discourages "prompt engineering" and offers a number of automatic tuning features. The evaluation in the paper shows DSP beat vanilla GPT-3.5 on Open-SQuAD by 120% (i.e., DSP got a score of 36.6 vs. vanilla GPT-3.5 with a few-shot prompt's score of 16.2). THey beat the simpler Retreive-then-read paradigm by a more modest 8%. They also evaluate performance on HotPotQA, and QReCC. The framework is open source and available for installation and comes with an intro notebook and compiler notebook.
+
+### End note
+
+Email me (or create a [PR](https://github.com/andyk/andyk.github.io/blob/master/_posts/2023-03-30-list-of-autonomous-agent-work.md)) with anything that I'm missing and I'll update this page.
