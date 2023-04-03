@@ -2,7 +2,7 @@
 layout: post
 title: "List of Autonomous LLM Agent Projects"
 ---
-_Last Upsated: April 2, 2022_
+_Last Updated: April 2, 2022_
 
 This is my scratchpad of interesting projects and products focused on taking LLMs and giving them the ability to do things. There is also a short summary of each project.
 
@@ -21,6 +21,7 @@ This is my scratchpad of interesting projects and products focused on taking LLM
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) - the “let's think step by step” paper, Kojima et al., The University of Tokyo, Google
 * [The Near Future of AI is Action-Driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf), James McDonnell 
 * [Sparks of Artificial General Intelligence Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf) Section 5: "Interaction with the world" (page 43), Seb́astien Bubeck et al., Microsoft
+* [Tweet thread by Andrej Karpathy re "AutoGPTs"](https://twitter.com/karpathy/status/1642598890573819905)
 * [Task-driven Autonomous Agent](https://twitter.com/yoheinakajima/status/1640934493489070000), Yohei Nakajima
 
 
