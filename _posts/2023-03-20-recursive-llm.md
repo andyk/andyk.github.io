@@ -3,7 +3,7 @@ layout: post
 title: "Recursive LLM Prompts"
 ---
 
-_(The following is copied from the readme at [github.com/andyk/recursive_llm](https://github.com/andyk/recursive_llm))_
+_(The following is copied from the readme at [github.com/andyk/recursive_llm](https://github.com/andyk/recursive_llm)); Last updated: March 21, 2023_
 
 The idea here is to implement recursion using English as the programming language and an LLM (e.g., GPT-2.5) as the runtime.
 
@@ -45,7 +45,7 @@ And here's what it looks like when you run it:
 
 ## Big picture goal and related work
 
- picture goal here is to explore of using prompts to generate new prompts, and more specifically the case where the prompts contain state and each recursively generated prompt updates that state to be closer to an end-goal.
+The big-picture goal here is to explore of using prompts to generate new prompts, and more specifically the case where the prompts contain state and each recursively generated prompt updates that state to be closer to an end-goal.
 
 This work is related to ReAct (a contraction of **_Re_**asoning + **_Act_**ion) \[[1](https://til.simonwillison.net/llms/python-react-pattern)\]\[[2](https://react-lm.github.io/)\], a "general paradigm" and associated implementation that "...explore[s] the use of LLMs to generate both reasoning traces and task-specific actions...".
 
