@@ -13,7 +13,7 @@ This is my scratchpad of interesting projects and products focused on taking LLM
 * [GPT Plugins](https://openai.com/blog/chatgpt-plugins), OpenAI
 * [Dust](https://dust.tt/), Stanislas Polu
 * [DSP - Demonstrate Search Predict](https://github.com/stanfordnlp/dsp/), Omar Khattab et al., Stanford 
-
+* [Reflexion](https://arxiv.org/abs/2303.11366)
 
 **Related reads (no code or project per se):**
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) - the “let's think step by step” paper, Kojima et al., The University of Tokyo, Google
