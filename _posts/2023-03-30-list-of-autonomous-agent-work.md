@@ -2,6 +2,7 @@
 layout: post
 title: "List of Autonomous LLM Agent Projects"
 ---
+_Last Upsated: April 2, 2022_
 
 This is my scratchpad of interesting projects and products focused on taking LLMs and giving them the ability to do things. There is also a short summary of each project.
 
