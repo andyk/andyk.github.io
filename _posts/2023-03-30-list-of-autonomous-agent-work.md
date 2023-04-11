@@ -4,7 +4,7 @@ title: "List of Autonomous LLM Agent Projects"
 ---
 _Last Updated: April 11, 2023_
 
-This is my scratchpad of interesting projects and products focused on building agents on top of LLMs that (1) can do things via actions & tools, (2) decide on their own what to do. There is also a short summary of each project.
+This is my scratchpad of interesting projects and products focused on building agents on top of LLMs that (1) can do things via actions & tools, (2) autonomously decide their own goals. There is also a short summary of each project.
 
 * [Toolformer](https://arxiv.org/abs/2302.04761), Timo Schick et al., Meta AI Research, Universitat Pompeu Fabra
 * [ReAct - Reasoning + Actions](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html), Shunyu Yao et al., Google Brain
