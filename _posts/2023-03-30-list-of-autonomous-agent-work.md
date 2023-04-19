@@ -25,7 +25,7 @@ This is my scratchpad of interesting projects and products focused on building a
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) - the “let's think step by step” paper, Kojima et al., The University of Tokyo, Google
 * [The Near Future of AI is Action-Driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf), James McDonnell 
 * [Sparks of Artificial General Intelligence Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf) Section 5: "Interaction with the world" (page 43), Seb́astien Bubeck et al., Microsoft
-* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442), Park et al., Stanford, Google
 * [Tweet thread by Andrej Karpathy re "AutoGPTs"](https://twitter.com/karpathy/status/1642598890573819905)
 * [Tweet thread by Jay Hack](https://twitter.com/mathemagic1an/status/1645096275392745477) on auto agents.
 
