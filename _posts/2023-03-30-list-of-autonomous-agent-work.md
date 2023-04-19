@@ -6,6 +6,7 @@ _Last Updated: April 19, 2023_
 
 This is my scratchpad of interesting projects and products focused on building agents on top of LLMs that (1) can do things via actions & tools, (2) autonomously decide their own goals. There is also a short summary of each project.
 
+* [Auto-GPT](https://github.com/Torantulino/Auto-GPT), Toran Bruce Richards
 * [Toolformer](https://arxiv.org/abs/2302.04761), Timo Schick et al., Meta AI Research, Universitat Pompeu Fabra
 * [ReAct - Reasoning + Actions](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html), Shunyu Yao et al., Google Brain
 * [BabyAGI](https://github.com/yoheinakajima/babyagi), Yohei Nakajima 
@@ -14,15 +15,14 @@ This is my scratchpad of interesting projects and products focused on building a
 * [LangChain Agents](https://python.langchain.com/en/latest/modules/agents.html), Harrison Chase
 * [GPT Plugins](https://openai.com/blog/chatgpt-plugins), OpenAI
   * [getit.ai plugins & agent registry](https://www.getit.ai/gpt-plugins)
+* [Self-Refine: Iterative Refinement with Self-Feedback](https://selfrefine.info/) ([paper](https://arxiv.org/abs/2303.17651)), Aman Madaan et al., CMU, Allen Institute, U of Washington, etc.
 * [Dust](https://dust.tt/), Stanislas Polu
 * [DSP - Demonstrate Search Predict](https://github.com/stanfordnlp/dsp/), Omar Khattab et al., Stanford 
 * [Reflexion](https://arxiv.org/abs/2303.11366), Northeastern, MIT
-* [Auto-GPT](https://github.com/Torantulino/Auto-GPT), Toran Bruce Richards
-* [toolkit.club](https://www.toolkit.club/)
+* [toolkit.club](https://www.toolkit.club/) - LLM plugin registry 
 
 **Related reads (no code or project per se):**
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) - the “let's think step by step” paper, Kojima et al., The University of Tokyo, Google
-* [Self-Refine: Iterative Refinement with Self-Feedback](https://selfrefine.info/) ([paper](https://arxiv.org/abs/2303.17651)), Aman Madaan et al., CMU, Allen Institute, U of Washington, etc.
 * [The Near Future of AI is Action-Driven](https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf), James McDonnell 
 * [Sparks of Artificial General Intelligence Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf) Section 5: "Interaction with the world" (page 43), Seb́astien Bubeck et al., Microsoft
 * [Tweet thread by Andrej Karpathy re "AutoGPTs"](https://twitter.com/karpathy/status/1642598890573819905)
