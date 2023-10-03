@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-* I'm Andy Konwinski
+* I'm Andy Konwinski.
 * I'm a co-founder of [Databricks](https://databricks.com/) and [Perplexity AI](https://perplexity.ai).
 * I advise and invest in startups coming out of top CS departments.
 * I teach a PhD seminar called [Research to Startups](https://startups.berkeley.edu) in the Berkeley CS dept.
