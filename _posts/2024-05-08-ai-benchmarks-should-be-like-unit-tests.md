@@ -18,7 +18,7 @@ By design, today's best AIs will perform miserably on such a benchmark
 efforts on high-leverage areas of improvement.
 
 [SWE-bench](https://swebench.com) is a good example. #1 on their leaderboard is
-currently 12.5%, and #2 is at than 3.8%. Can we build benchmarks like this for
+currently at 12.5%, and #2 is at than 3.8%. Can we build benchmarks like this for
 use-cases beyond software engineering? Maybe healthcare, finance, data
 science/eng., personal assistant, social influencer…?
 
