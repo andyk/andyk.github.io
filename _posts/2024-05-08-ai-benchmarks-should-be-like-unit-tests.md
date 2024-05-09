@@ -12,10 +12,11 @@ haven't achieved at human-level, e.g., complex logical inference, tool usage,
 long term memory, knowing what they don't know, integrating actions +
 observations + reasoning, learning how to learn.
 
-By design, today's best AIs will perform miserably on such a benchmark, which
-will motivate research or engineering and keep the focus on areas on
-higher-leverage areas of improvement. [SWE-Bench](https://swebench.com) is a
-good example (top score on leaderboard is 12.5%). Can we build benchmarks like
-this for use-cases beyond software engineering? Maybe healthcare, finance, data
-science/eng., personal assistant, social influencer…?
+By design, today's best AIs will perform miserably on such a benchmark
+(analogous to the unit test failing), which will focus research and engineering
+efforts on high-leverage areas of improvement.
+[SWE-Bench](https://swebench.com) is a good example (top score on leaderboard
+is 12.5%). Can we build benchmarks like this for use-cases beyond software
+engineering? Maybe healthcare, finance, data science/eng., personal assistant,
+social influencer…?
 
