@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "Focus on the failured prompts"
+title: "Focus on the failures"
 ---
 
 When playing LLMs, it is tempting to only share and discuss the prompts that cause the model to return something interesting that demonstrates the models reasoning capabilities or the knowledge it has memorized.
