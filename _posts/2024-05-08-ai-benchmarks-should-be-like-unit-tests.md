@@ -14,7 +14,7 @@ don't know, integrating actions + observations + reasoning, learning how to
 learn.
 
 By design, today's best AIs will perform miserably on such a benchmark
-(analogous to the unit test failing), which will focus research and engineering
+(analogous to a unit test failing), which will focus research and engineering
 efforts on high-leverage areas of improvement.
 
 [SWE-bench](https://swebench.com) is a good example. #1 on their leaderboard is
