@@ -1,5 +1,8 @@
 I build this blog using jekyll and rbenv on MacOS.
 
+# overriding theme defaults
+read: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 # Building site
 I use Docker, so to build site:
 
