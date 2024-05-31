@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: no-title-page
 title: About Me
 permalink: /about/
 ---
 
-I'm Andy Konwinski. I co-founded [Databricks](https://databricks.com/) and [Perplexity](https://perplexity.ai). I advise and invest in startups built by technical founders. I also teach a PhD seminar called [Research to Startups](https://startups.berkeley.edu) in the Berkeley CS dept. I hack on [researchy AI systems](https://github.com/andyk/headlong) for [fun](https://github.com/andyk/recursive_llm).
+<img src="/assets/img/headshot.jpeg" style="float:right; width:330px; padding-left:20px"/>I'm Andy Konwinski. I co-founded [Databricks](https://databricks.com/) and [Perplexity](https://perplexity.ai). I advise and invest in startups built by technical founders. I also teach a PhD seminar called [Research to Startups](https://startups.berkeley.edu) in the Berkeley CS dept. I hack on [researchy AI systems](https://github.com/andyk/headlong) for [fun](https://github.com/andyk/recursive_llm).
 
 Background:
 * I got my PhD in Computer Science at UC Berkeley.
