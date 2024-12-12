@@ -2,13 +2,23 @@
 layout: post
 title: "Konwinski Prize"
 ---
-
-<center><a href="https://x.com/andykonwinski/status/1867015050403385674"><img alt="Tweet: I'll give $1M to the first open source AI that gets 90% on this sweet new contamination-free version of SWE-bench - http://kprize.ai" src="/assets/img/kprize-tweet.png" style="width:500px; padding-bottom:30px"/></a></center>
+<center style="padding-bottom:20px">
+  <div style="overflow: hidden;">
+    <div style="float: left; width: 50%; text-align: center; min-width: 350px;">
+      <a href="https://x.com/andykonwinski/status/1867015050403385674">
+        <img alt="Tweet: I'll give $1M to the first open source AI that gets 90% on this sweet new contamination-free version of SWE-bench - http://kprize.ai" src="/assets/img/kprize-tweet.png" style="width: 90%; padding-bottom: 30px;"/>
+      </a>
+    </div>
+    <div style="float: left; width: 50%; text-align: center; min-width: 350px;">
+      <img src="/assets/img/kprize-launch-on-stage.jpg" style="width: 90%;"/>
+      <div style="margin: auto; text-align: center; padding-top: 10px; font-size:.9em; font-style: italic; width: 90%;">
+        Live tweeting the announcment at NeurIPS. Left to right: Kaggle CEO <a href="https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate">D. Scully</a>, SWE-bench creators <a href="https://www.carlosejimenez.com/">Carlos Jimenez</a> & <a href="https://john-b-yang.github.io/">John Yang</a>; and me
+      </div>
+    </div>
+  </div>
+</center>
 
 Last night, I tweeted on stage at NeurIPS that I’ll give $1 million to the open source AI that breaks 90% on a sweet new version of my favorite benchmark, [SWE-bench](http://swebench.com). It’s called the [Kprize](http://kprize.ai)\!
-
-<img src="/assets/img/kprize-launch-on-stage.jpg" style="width:500px"/>
-_Left to right: Kaggle CEO [D. Scully](https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate), SWE-bench creators [Carlos Jimenez](https://www.carlosejimenez.com/) & [John Yang](https://john-b-yang.github.io/); and me_
 
 
 The Kprize aims to:
