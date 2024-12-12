@@ -19,7 +19,7 @@ description: "Why I launched the Kprize, aka, why want to give $1M to the first 
   </div>
 </center>
 
-Last night, I tweeted on stage at NeurIPS that I’ll give $1 million to the open source AI that breaks 90% on a sweet new version of my favorite benchmark, [SWE-bench](http://swebench.com). The competition is called the [Kprize](http://kprize.ai)\!
+Last night, I tweeted on stage at NeurIPS that I’ll give $1M to the open source AI that breaks 90% on a sweet new version of my favorite benchmark, [SWE-bench](http://swebench.com). The competition is called the [Kprize](http://kprize.ai)\!
 
 
 The Kprize aims to:
