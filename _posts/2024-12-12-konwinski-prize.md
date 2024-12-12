@@ -39,4 +39,8 @@ And finally, shoutouts to the core members of the Kprize team for standing this 
 
 Happy hacking\!
 
-Check out [my NeurIPS announcement slides](https://docs.google.com/presentation/d/1yp8xWBLB9Uf6VwDFk6SznreUUsegK78jHBAVCuVPAVw/edit?usp=sharing)
+--
+
+See also:<br/>
+[Kprize website](https://kprize.ai).<br/>
+[Kprize NeurIPS announcement slides](https://docs.google.com/presentation/d/1yp8xWBLB9Uf6VwDFk6SznreUUsegK78jHBAVCuVPAVw/edit?usp=sharing).
