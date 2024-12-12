@@ -13,7 +13,7 @@ description: "Why I launched the Kprize, aka, why want to give $1M to the first 
     <div style="float: left; width: 50%; text-align: center; min-width: 350px;">
       <img src="/assets/img/kprize-launch-on-stage.jpg" style="width: 90%;"/>
       <div style="margin: auto; text-align: center; padding-top: 10px; font-size:.9em; font-style: italic; width: 90%;">
-        Live tweeting the announcment at NeurIPS. Left to right: Kaggle CEO <a href="https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate">D. Scully</a>, SWE-bench creators <a href="https://www.carlosejimenez.com/">Carlos Jimenez</a> & <a href="https://john-b-yang.github.io/">John Yang</a>; and me
+        Live tweeting the announcement at NeurIPS. Left to right: Kaggle CEO <a href="https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate">D. Scully</a>, SWE-bench creators <a href="https://www.carlosejimenez.com/">Carlos Jimenez</a> & <a href="https://john-b-yang.github.io/">John Yang</a>; and me
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ Why make a contamination free version of SWE-bench? SWE-bench publishes its test
 
 Why restrict Kprize to open source code and open weight models? I am passionate about open source\! One of the things I love most about open source is how it taps into a bigger community energy \- individuals building off the work of other individuals to do something big. I love that feeling of getting swept up into something much bigger than yourself. That moment when you look at your team and say, “*whoa, are we actually doing this?*” That’s how I felt when I was working on Spark at Berkeley, and that’s how I hope those who work on the Kprize feel.
 
-One day in early 2024 I had the idea to put them all of the above together and the Kprize was born\! I assembled a team to adapt SWE-bench’s collection pipeline and implement the evaluation part on Kaggle’s infrastructure. For this competition we will collect a new test set after the submission deadline.
+One day in early 2024 I had the idea to put all of the above together and the Kprize was born\! I assembled a team to adapt SWE-bench’s collection pipeline and implement the evaluation part on Kaggle’s infrastructure. For this competition we will collect a new test set after the submission deadline.
 
 And finally, shoutouts to the core members of the Kprize team for standing this up: Chris Rytting, Justin Field, Alex Shaw, and K. Tighe. And also thanks to Kaggle for their deep partnership.
 
