@@ -3,20 +3,21 @@ layout: post
 title: "Konwinski Prize"
 ---
 
+<center><a href="https://x.com/andykonwinski/status/1867015050403385674"><img alt="Tweet: I'll give $1M to the first open source AI that gets 90% on this sweet new contamination-free version of SWE-bench - http://kprize.ai" src="/assets/img/kprize-tweet.png" style="width:500px; padding-bottom:30px"/></a></center>
+
 Last night, I tweeted on stage at NeurIPS that I’ll give $1 million to the open source AI that breaks 90% on a sweet new version of my favorite benchmark, [SWE-bench](http://swebench.com). It’s called the [Kprize](http://kprize.ai)\!
 
-\<kprize-launch-on-stage.jpg\>  
-Left to right: Kaggle CEO [D. Scully](https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate), SWE-bench creators [Carlos Jimenez](https://www.carlosejimenez.com/) & [John Yang](https://john-b-yang.github.io/); and me
+<img src="/assets/img/kprize-launch-on-stage.jpg" style="width:500px"/>
+_Left to right: Kaggle CEO [D. Scully](https://scholar.google.com/citations?hl=en&user=l_O64B8AAAAJ&view_op=list_works&sortby=pubdate), SWE-bench creators [Carlos Jimenez](https://www.carlosejimenez.com/) & [John Yang](https://john-b-yang.github.io/); and me_
 
-\<kprize-tweet-from-stage\>
-
-Why start with SWE-bench? Well, I fell in love with SWE-bench the moment I saw it. What a great idea: have AI solve real issues from popular GitHub repos. I love that SWE-bench is hard, built from real world data, and measures something that I care about (coding).
 
 The Kprize aims to:
 
 1. Measure how AI coders *really* perform   
 2. Model a better way to benchmark  
 3. Inspire more people to participate in moving AI forward in the open
+
+Why start with SWE-bench? Well, I fell in love with SWE-bench the moment I saw it. What a great idea: have AI solve real issues from popular GitHub repos. I love that SWE-bench is hard, built from real world data, and measures something that I care about (coding).
 
 Why make a contamination free version of SWE-bench? SWE-bench publishes its test set, like many benchmarks today. This allows those who compete in the benchmark to overfit their solutions. Even if they didn’t officially publish the test set, SWE-bench is composed of issues and code scraped from public GitHub repos, and most models today are trained extensively on code in those same repositories (and just about everything else on the internet) so contamination is a big problem. I've always wondered how the leaderboard would change if the test set weren’t public. That’s why I decided to build a contamination-free version of SWE-bench?
 
