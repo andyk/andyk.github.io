@@ -34,7 +34,7 @@ Why make a contamination free version? SWE-bench publishes its test set. This al
 
 Why open source code and open weight models only? I am passionate about open source\! One of the things I love most about open source is how it taps into a bigger community energy \- individuals building off the work of other individuals to do something big. I love that feeling of getting swept up into something much bigger than yourself. That moment when you look at your team and say, “*whoa, are we actually doing this?*” That’s how I felt when I was working on Spark at Berkeley, and that’s how I hope those who work on the Kprize feel.
 
-Why a competition? I enjoyed competing in programming competitions as an undergrad. Also, I came to appreciate the power of programming competitions to catalyze research progress back at UC Berkeley, where I witnessed the Netflix Prize (another $1M programming competition based on real data) inspire my friend and Databricks co-founder Matei Zaharia to create Apache Spark.
+Why a competition? I enjoyed competing in programming competitions as an undergrad. Also, I came to appreciate the power of programming competitions to catalyze research progress back at UC Berkeley, where I witnessed the Netflix Prize (which was also for $1M and based on real data) inspire my friend and Databricks co-founder Matei Zaharia to create Apache Spark.
 
 One day in early 2024 I had the idea to put all of the above together and the Kprize was born\! I assembled a team to adapt SWE-bench’s collection pipeline and implement the evaluation part on Kaggle’s infrastructure. For this competition we will collect a new test set after the submission deadline.
 
