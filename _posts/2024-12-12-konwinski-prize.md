@@ -45,6 +45,6 @@ Happy hacking\!
 --
 
 See also:<br/>
-[K Prize website](https://kprize.ai).<br/>
-[K Prize NeurIPS announcement slides](https://docs.google.com/presentation/d/1yp8xWBLB9Uf6VwDFk6SznreUUsegK78jHBAVCuVPAVw/edit?usp=sharing).
+[K Prize website](https://kprize.ai)<br/>
+[K Prize NeurIPS announcement slides](https://docs.google.com/presentation/d/1yp8xWBLB9Uf6VwDFk6SznreUUsegK78jHBAVCuVPAVw/edit?usp=sharing)<br/>
 [My tweet from on stage at NeurIPS](https://x.com/andykonwinski/status/1867015050403385674)
