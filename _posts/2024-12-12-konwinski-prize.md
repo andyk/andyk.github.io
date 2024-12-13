@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Konwinski Prize"
+title: "Why I built the Konwinski Prize"
 description: "Why I launched the K Prize, aka, why want to give $1M to the first open source AI that gets 90% on contamination-free SWE-bench."
 ---
 <center style="padding-bottom:20px">
