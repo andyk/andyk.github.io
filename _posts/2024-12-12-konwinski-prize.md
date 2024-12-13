@@ -24,9 +24,9 @@ Last night, I tweeted on stage at NeurIPS that I’ll give $1M to the open sourc
 
 The Kprize aims to:
 
-1. Measure how AI coders *really* perform   
-2. Model a better way to benchmark  
-3. Inspire more people to participate in moving AI forward in the open
+- Measure how AI coders perform when they can't cheat
+- Model a better way to benchmark
+- Move AI forward in the open
 
 **Why SWE-bench?** Well, I fell in love with SWE-bench the moment I saw it. What a great idea: have AI solve real issues from popular GitHub repos. I love that SWE-bench is hard, built from real world data, and measures something that I care about (coding).
 
