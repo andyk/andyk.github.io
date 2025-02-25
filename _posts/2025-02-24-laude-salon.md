@@ -6,6 +6,8 @@ description: "A conversation about how researchers can shape the AI agenda"
 
 <img src="/assets/img/salon-1.jpg" alt="A black and white photo of a Dave Patterson on stage kicking off the Salon" width="45%">
 <img src="/assets/img/salon-2.jpg" alt="A warmly lit photo of attendees at tables during a salon event" width="45%">
+<img src="/assets/img/salon-7.jpg" alt="Me chiming in" width="45%">
+<img src="/assets/img/salon-5.jpg" alt="Jeff Dean engaged in the salon discussion" width="45%">
 
 Earlier this month, I helped assemble some of the smartest folks on the planet to discuss how researchers might steer the AI agenda to a positive impact on billions of lives. The event was the very first of what will become many Laude Salons and it was a bit of an experiment \- an attempt to foster dialogue among researchers about where AI is heading and how we can shape it for the better.
 
