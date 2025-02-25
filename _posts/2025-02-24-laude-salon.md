@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "The first Laude Salon: on researchers shaping AI"  
+title: "The first Laude Salon: on researchers shaping AI's impact"  
 description: "A conversation about how researchers can shape the AI agenda"  
 ---
 
