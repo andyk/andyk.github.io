@@ -7,7 +7,7 @@ description: "K Prize round one submissions are closed"
 K Prize Round 1 is Officially Closed \- thank you\!   
 <img style="padding:2px; float:right" src="/assets/img/kprize-dollars.gif" alt="" width="45%">
 
-Well, that was fun. Submissions for the first phase of Konwinski Prize are now closed \- thanks to the 599 teams who entered what I’ll call “round 1” of K Prize. The competition was fierce, and this is not an easy benchmark. Congrats to those of you who made it to the Kaggle leaderboard. 
+Well, that was fun. Submissions for the first phase of Konwinski Prize are now closed \- thanks to the 616 teams who entered what I’ll call “round 1” of K Prize. The competition was fierce, and this is not an easy benchmark. Congrats to those of you who made it to the Kaggle leaderboard.
 
 Now that the submission deadline has passed, we’ll begin collecting our test set to figure out real scores. We’ll announce a first batch of prize winners on June 11th, so stay tuned. No submissions will be allowed during the competition downtime. 
 
