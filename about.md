@@ -10,7 +10,7 @@ Background:
 * I got my PhD in Computer Science at UC Berkeley.
 * My research is focused on AI, data, and systems.
 * At Laude we co-created [Terminal Bench](https://www.tbench.ai/) and [Harbor](https://harborframework.com/) with Ludwig Schmidt's group at Stanford.
-* I ran the [K Prize](https://kprize.ai), a $1M for any AI that could get 90% on a contamination-free version of SWE-Bench (also at Laude).
+* I ran the [K Prize](https://kprize.ai), a $1M competition for the first AI that could get 90% on a contamination-free version of SWE-Bench (also at Laude).
 * I co-founded Databricks, where I was VP Product AI/ML, created the [Data+AI Summit](https://www.databricks.com/dataaisummit), and co-authored the O'reilly [Learning Spark](https://www.oreilly.com/library/view/learning-spark/9781449359034/) book.
 * I'm a co-founder of Perplexity and was one of the first investors and founding President.
 * During grad school, I contributed to Hadoop, co-created Mesos (NSDI Test of Time award 2021), worked at Google on the [Omega cluster scheduler](https://cs.brown.edu/people/malte/pub/papers/2013-eurosys-omega.pdf) (Eurosys Best Student Paper 2013 / Test of Time award 2023), and was part of the team that created Spark.
